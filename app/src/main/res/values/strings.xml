@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyBottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="upcoming_event">Upcoming Event</string>
+    <string name="finished_event">Finished Event</string>
+    <string name="upcoming_subtitle">Recommendation Event For You!</string>\
+    <string name="title">Dicoding Event</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama_event">nama_default</string>
+    <string name="nama_penyelenggara">penyelenggara_default</string>
+    <string name="tanggal_event">Tanggal: %1$s</string>
+    <string name="jam_event">Pukul : %1$s WIB</string>
+    <string name="quota_event">Sisa Kuota: %1$s</string>
+    <string name="deskripsi_event">deskripsi_default</string>
+    <string name="favorite_event">Favorite Events</string>
+    <string name="your_favorite_events">Your Favorite Events</string>
+    <string name="settings">Settings</string>
+    <string name="set_favorite">set favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="notification_subtext">Reminder</string>
+    <string name="notification_title">Dicoding Indonesia</string>
+    <string name="notification_message">Mari belajar bersama</string>
+</resources>
